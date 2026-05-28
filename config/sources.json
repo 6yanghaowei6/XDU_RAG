@@ -1,0 +1,58 @@
+{
+  "allowed_domains": [
+    "xidian.edu.cn",
+    "www.xidian.edu.cn",
+    "info.xidian.edu.cn",
+    "xxgk.xidian.edu.cn",
+    "jwc.xidian.edu.cn",
+    "gr.xidian.edu.cn",
+    "xgc.xidian.edu.cn",
+    "notice.xidian.edu.cn"
+  ],
+  "seed_urls": [
+    {
+      "url": "https://www.xidian.edu.cn/",
+      "source_site": "西电主站",
+      "category": "政策"
+    },
+    {
+      "url": "https://info.xidian.edu.cn/",
+      "source_site": "综合信息网",
+      "category": "通知"
+    },
+    {
+      "url": "https://xxgk.xidian.edu.cn/",
+      "source_site": "信息公开网",
+      "category": "政策"
+    },
+    {
+      "url": "https://jwc.xidian.edu.cn/",
+      "source_site": "教务处",
+      "category": "教务"
+    },
+    {
+      "url": "https://gr.xidian.edu.cn/",
+      "source_site": "研究生院",
+      "category": "保研"
+    },
+    {
+      "url": "https://xgc.xidian.edu.cn/",
+      "source_site": "学生工作部",
+      "category": "学工"
+    },
+    {
+      "url": "https://notice.xidian.edu.cn/",
+      "source_site": "校内通知平台",
+      "category": "通知",
+      "may_require_vpn": true
+    }
+  ],
+  "category_keywords": {
+    "政策": ["政策", "办法", "规定", "条例", "实施细则", "管理办法", "通知"],
+    "保研": ["推免", "推荐免试", "保研", "免试研究生", "研究生支教团"],
+    "生活": ["宿舍", "公寓", "食堂", "校车", "后勤", "医保", "生活", "安排"],
+    "竞赛": ["竞赛", "比赛", "大赛", "挑战杯", "互联网+", "数学建模", "报名"],
+    "教务": ["选课", "考试", "课程", "学分", "培养方案", "教务"],
+    "学工": ["奖学金", "助学金", "学生工作", "辅导员", "资助"]
+  }
+}

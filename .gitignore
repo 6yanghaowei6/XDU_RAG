@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+data/raw/
+data/knowledge_base/
+data/index/
+data/crawl_failures.jsonl
+data/documents.jsonl
+data/chunks.jsonl
+*.log

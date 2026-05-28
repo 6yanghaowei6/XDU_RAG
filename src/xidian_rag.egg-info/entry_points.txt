@@ -1,0 +1,2 @@
+[console_scripts]
+xidian-rag = xidian_rag.cli:main
